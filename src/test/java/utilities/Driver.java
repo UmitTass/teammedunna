@@ -19,7 +19,7 @@ import java.util.NoSuchElementException;
 
 public class Driver {
     //create a driver instance
-    private static WebDriver driver;
+    public static WebDriver driver;
     private static int timeout = 5;
 
     //What?=>It is just to create, initialize the driver instance.(Singleton driver)
@@ -34,7 +34,7 @@ public class Driver {
     public static WebDriver getDriver() {
         //create the driver if and only if it is null
         if (driver == null) {
-            String browser = ConfigurationReader.getProperty("browser");
+            String browser = ConfigReader.getProperty("browser");
             if ("chrome".equals(browser)) {
                 WebDriverManager.chromedriver().setup();
                 driver = new ChromeDriver();
@@ -52,7 +52,7 @@ public class Driver {
                 driver = new ChromeDriver(new ChromeOptions().setHeadless(true));
             }
         }
-//        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+      driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         driver.manage().window().maximize();
         return driver;
     }

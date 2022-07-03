@@ -1,0 +1,10 @@
+Registrant{firstName='Umit', lastName='Tas', ssn='367-92-2290', login='umittrfrewfias', langKey='null', password='umitiis49', email='umit879rfrf7tas@gmail.com', id=0, activated=false, authorities=null}
+Registrant{firstName='Umit', lastName='Tas', ssn='367-92-2290', login='umittrfrewfias', langKey='null', password='umitiis49', email='umit879rfrf7tas@gmail.com', id=0, activated=false, authorities=null}
+Registrant{firstName='Hisako', lastName='Walker', ssn='179-62-7890', login='HisakoWalker', langKey='null', password='38gnqhadqx', email='HisakoWalker@gmail.com', id=0, activated=false, authorities=null}
+Registrant{firstName='Shandi', lastName='Mosciski', ssn='138-13-2913', login='ShandiMosciski', langKey='null', password='e740xojo4xlijsn', email='ShandiMosciski@gmail.com', id=0, activated=false, authorities=null}
+Registrant{firstName='Israel', lastName='Hansen', ssn='474-57-8865', login='IsraelHansen', langKey='null', password='huusb4j9m', email='IsraelHansen@gmail.com', id=0, activated=false, authorities=null}
+Registrant{firstName='Cliff', lastName='Kuhn', ssn='124-61-5797', login='CliffKuhn', langKey='null', password='y493llmwx', email='CliffKuhn@gmail.com', id=0, activated=false, authorities=null}
+Registrant{firstName='Stevie', lastName='Wyman', ssn='731-72-4036', login='StevieWyman', langKey='null', password='552zzhk9k2dmd9f', email='StevieWyman@gmail.com', id=0, activated=false, authorities=null}
+Registrant{firstName='Olimpia', lastName='Kozey', ssn='466-56-5512', login='OlimpiaKozey', langKey='null', password='9m1csvadzjz7', email='OlimpiaKozey@gmail.com', id=0, activated=false, authorities=null}
+Registrant{firstName='Colton', lastName='Balistreri', ssn='562-50-6210', login='ColtonBalistreri', langKey='null', password='0vicp79h97wk', email='ColtonBalistreri@gmail.com', id=0, activated=false, authorities=null}
+Registrant{firstName='Keith', lastName='Deckow', ssn='432-07-6424', login='KeithDeckow', langKey='null', password='2q4o2gz0a', email='KeithDeckow@gmail.com', id=0, activated=false, authorities=null}
